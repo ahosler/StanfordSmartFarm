@@ -1,0 +1,5 @@
+This is code that has to do with the main MCU of the system, which controlls: 
+- irrigation
+- recieving signals from a wifi enabled device
+
+In our current iteration (9/1/18) we are using an Arduino Mega, although there are plenty of viable candidates
